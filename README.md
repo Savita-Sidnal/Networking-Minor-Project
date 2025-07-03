@@ -20,7 +20,8 @@ The custom topology consists of:
 
 📷 Topology Diagram:
 
-![Topology](https://raw.githubusercontent.com/Savita-Sidnal/Networking-Minor-Project/network_architecture.png)
+<img src="./network_architecture.png" alt="Home Page" width="600"/>
+
 
 ---
 
