@@ -1,6 +1,6 @@
 # 📡 Intelligent Task Offloading in Edge Computing using Deep Q-Learning
 
-This project implements an intelligent task offloading mechanism using Deep Q-Learning (DQN) in a simulated edge computing environment. The network is built using Mininet, and PyTorch is used to train a reinforcement learning agent that dynamically decides where to process user tasks — locally or on one of several edge servers.
+This project implements an intelligent task offloading mechanism using Deep Q-Learning (DQN) in a simulated edge computing environment. The network is created using Mininet, and a reinforcement learning agent built in PyTorch learns to decide whether to process a task locally or offload it to an edge server based on real-time network conditions and workload.
 
 ---
 
@@ -8,14 +8,15 @@ This project implements an intelligent task offloading mechanism using Deep Q-Le
 
 The custom topology consists of:
 
-- 6 User Equipments (UEs): ue1, ue2, ue3, ue4, ue5, ue6
-- 3 Edge Servers: edge1, edge2, edge3
-- 1 Switch: s1
-- 1 Controller: c0
+- 👥 6 User Equipments (UEs): ue1, ue2, ue3, ue4, ue5, ue6  
+- 🖥️ 3 Edge Servers: edge1, edge2, edge3  
+- 🔀 1 Switch: s1  
+- 🎮 1 Controller: c0  
 
-💡 Bandwidth:
-- UEs → Switch: 10 Mbps
-- Edge Servers → Switch: 100 Mbps
+📡 Bandwidth Configuration:
+
+- UEs ↔ Switch: 10 Mbps  
+- Edge Servers ↔ Switch: 100 Mbps  
 
 📷 Topology Diagram:
 
@@ -25,62 +26,73 @@ The custom topology consists of:
 
 ## 🚀 Features
 
-- ✅ Mininet Custom Topology
-- ✅ Deep Q-Network (DQN) using PyTorch
-- ✅ Real-time RTT measurement using ping
-- ✅ Dynamic task generation per UE
-- ✅ Reward computation based on latency
-- ✅ Experience Replay Buffer
-- ✅ Target Network Synchronization
-- ✅ Command-line visualization of offloading decisions
+- ✅ Custom Mininet topology for edge computing
+- ✅ Deep Q-Network (DQN) implementation using PyTorch
+- ✅ Real-time RTT (Round-Trip Time) measurement using ping
+- ✅ Dynamic and randomized task generation per UE
+- ✅ Reward function based on latency (negative reward = high latency)
+- ✅ Experience Replay Buffer for stable training
+- ✅ Target Network synchronization for DQN stability
+- ✅ CLI-based visualization of task offloading decisions
 
 ---
 
 ## 🛠️ Prerequisites
 
-- OS: Linux (tested on Ubuntu)
-- Python 3.8+
+Ensure the following software is installed:
+
+- Linux OS (Tested on Ubuntu)
+- Python 3.8 or above
 - Mininet
 - PyTorch
 - NumPy
 
-Install dependencies using:
+Install dependencies:
 
 ```bash```
 pip install torch numpy
 
-## 🧠 DQN Overview
+---
+## 🧠 DQN Model Overview
 
-- Input (State):
-  - RTT to edge1, edge2, edge3
-  - Task Size (1MB–10MB)
-  - CPU Demand (5%–50%)
+The Deep Q-Network (DQN) makes decisions based on the following inputs and outputs to optimize task offloading in an edge computing environment:
 
-- Output (Action Space):
-  - 0: Process locally
-  - 1: Offload to edge1
-  - 2: Offload to edge2
-  - 3: Offload to edge3
+🔢 Input (State):
 
-- Reward:
-  - Negative of total latency (smaller latency → higher reward)
+- RTT to edge1, edge2, and edge3  
+- Task Size (range: 1MB to 10MB)  
+- CPU Demand (range: 5% to 50%)  
 
-- Architecture:
-  - Input layer: 5 neurons
-  - Hidden layer: 128 ReLU
-  - Output layer: 4 Q-values
+🎯 Output (Action Space):
 
-- Training:
-  - 50 episodes with 6 UEs per episode
-  - Experience Replay Buffer
-  - Target Network update every 10 episodes
+- 0 → Process Locally  
+- 1 → Offload to edge1  
+- 2 → Offload to edge2  
+- 3 → Offload to edge3  
+
+🎁 Reward Function:
+
+- Reward = −(total latency)  
+- Lower latency results in a higher (less negative) reward  
+
+🧮 Model Architecture:
+
+- Input Layer: 5 neurons (3 RTTs + task size + CPU demand)  
+- Hidden Layer: 128 neurons (ReLU activation)  
+- Output Layer: 4 Q-values (representing expected reward for each action)  
+
+📘 Training Details:
+
+- Total Episodes: 50  
+- Tasks per Episode: 6 (one per UE)  
+- Target Network Synchronization: Every 10 episodes  
+- Experience Replay Buffer: Enabled to stabilize training  
 
 ---
+
 ## 📊 Result Analysis
 
-- 📉 Latency reduces over episodes as the agent learns optimal offloading.
-- 📈 Edge servers are preferred when RTT + CPU cost < local processing.
-- 🧠 DQN learns adaptively using feedback from network measurements.
-- ⚙️ CPU % represents the workload for each task and influences the total latency during both local and edge execution.
-
---- 
+- 📉 Latency decreases over episodes as the agent learns optimal offloading strategies.  
+- 📈 Edge servers are selected when the combination of RTT and CPU cost is lower than local computation.  
+- 🤖 The DQN agent adapts dynamically to varying task sizes and CPU loads.  
+- ⚙️ CPU % reflects the computational workload of each task, directly affecting latency for both local and edge execution.
