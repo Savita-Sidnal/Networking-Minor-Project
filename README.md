@@ -20,7 +20,7 @@ The custom topology consists of:
 
 📷 Topology Diagram:
 
-<img src="./network_architecture.png" alt="Home Page" width="600"/>
+<img src="./network_architecture.png" alt="Home Page" width="400"/>
 
 
 ---
