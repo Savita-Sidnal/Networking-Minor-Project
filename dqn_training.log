@@ -1,0 +1,427 @@
+Episode 1/50
+ue1 offloaded to edge3. Task: 8.72MB, CPU: 9.54%, Latency: 5.88 ms
+ue2 processed locally. Task: 9.04MB, CPU: 39.54%, Latency: 34.77 ms
+ue3 offloaded to edge1. Task: 3.83MB, CPU: 23.72%, Latency: 6.17 ms
+ue4 processed locally. Task: 9.21MB, CPU: 27.06%, Latency: 28.53 ms
+ue5 offloaded to edge1. Task: 5.39MB, CPU: 20.10%, Latency: 5.83 ms
+ue6 processed locally. Task: 2.65MB, CPU: 33.90%, Latency: 31.95 ms
+Episode 2/50
+ue1 offloaded to edge1. Task: 1.87MB, CPU: 8.43%, Latency: 2.29 ms
+ue2 processed locally. Task: 6.58MB, CPU: 7.54%, Latency: 18.77 ms
+ue3 processed locally. Task: 4.75MB, CPU: 40.06%, Latency: 35.03 ms
+ue4 offloaded to edge1. Task: 5.15MB, CPU: 14.44%, Latency: 4.46 ms
+ue5 offloaded to edge3. Task: 6.45MB, CPU: 33.96%, Latency: 8.77 ms
+ue6 processed locally. Task: 8.93MB, CPU: 14.06%, Latency: 22.03 ms
+Episode 3/50
+ue1 offloaded to edge1. Task: 2.90MB, CPU: 6.91%, Latency: 2.29 ms
+ue2 processed locally. Task: 7.83MB, CPU: 28.53%, Latency: 29.27 ms
+ue3 offloaded to edge1. Task: 2.28MB, CPU: 28.08%, Latency: 6.34 ms
+ue4 offloaded to edge1. Task: 6.62MB, CPU: 11.85%, Latency: 4.38 ms
+ue5 offloaded to edge1. Task: 1.26MB, CPU: 21.93%, Latency: 4.80 ms
+ue6 processed locally. Task: 9.00MB, CPU: 29.15%, Latency: 29.57 ms
+Episode 4/50
+ue1 offloaded to edge2. Task: 9.12MB, CPU: 42.55%, Latency: 11.29 ms
+ue2 offloaded to edge1. Task: 1.31MB, CPU: 30.48%, Latency: 6.53 ms
+ue3 processed locally. Task: 8.99MB, CPU: 5.22%, Latency: 17.61 ms
+ue4 offloaded to edge2. Task: 2.48MB, CPU: 15.40%, Latency: 3.88 ms
+ue5 offloaded to edge3. Task: 5.42MB, CPU: 17.96%, Latency: 5.26 ms
+ue6 processed locally. Task: 8.29MB, CPU: 28.44%, Latency: 29.22 ms
+Episode 5/50
+ue1 processed locally. Task: 9.87MB, CPU: 32.08%, Latency: 31.04 ms
+ue2 processed locally. Task: 7.23MB, CPU: 5.52%, Latency: 17.76 ms
+ue3 offloaded to edge3. Task: 9.88MB, CPU: 34.67%, Latency: 9.94 ms
+ue4 processed locally. Task: 5.79MB, CPU: 10.59%, Latency: 20.29 ms
+ue5 offloaded to edge1. Task: 1.01MB, CPU: 41.75%, Latency: 8.69 ms
+ue6 processed locally. Task: 7.52MB, CPU: 12.35%, Latency: 21.18 ms
+Episode 6/50
+ue1 processed locally. Task: 5.23MB, CPU: 10.05%, Latency: 20.03 ms
+ue2 offloaded to edge3. Task: 9.27MB, CPU: 36.11%, Latency: 10.04 ms
+ue3 offloaded to edge3. Task: 2.65MB, CPU: 40.68%, Latency: 8.98 ms
+ue4 offloaded to edge3. Task: 7.76MB, CPU: 34.80%, Latency: 9.35 ms
+ue5 offloaded to edge1. Task: 4.49MB, CPU: 32.02%, Latency: 7.90 ms
+ue6 offloaded to edge1. Task: 5.62MB, CPU: 14.46%, Latency: 4.71 ms
+Episode 7/50
+ue1 processed locally. Task: 2.06MB, CPU: 6.58%, Latency: 18.29 ms
+ue2 offloaded to edge1. Task: 7.30MB, CPU: 20.46%, Latency: 6.32 ms
+ue3 processed locally. Task: 9.04MB, CPU: 17.68%, Latency: 23.84 ms
+ue4 offloaded to edge1. Task: 8.09MB, CPU: 28.73%, Latency: 8.20 ms
+ue5 offloaded to edge3. Task: 9.30MB, CPU: 40.69%, Latency: 10.95 ms
+ue6 offloaded to edge1. Task: 1.67MB, CPU: 41.81%, Latency: 8.89 ms
+Episode 8/50
+ue1 offloaded to edge3. Task: 9.93MB, CPU: 40.86%, Latency: 11.18 ms
+ue2 offloaded to edge1. Task: 3.41MB, CPU: 28.92%, Latency: 6.84 ms
+ue3 offloaded to edge1. Task: 1.63MB, CPU: 9.44%, Latency: 2.41 ms
+ue4 offloaded to edge3. Task: 4.39MB, CPU: 47.70%, Latency: 10.89 ms
+ue5 offloaded to edge3. Task: 9.00MB, CPU: 41.86%, Latency: 11.11 ms
+ue6 offloaded to edge1. Task: 1.30MB, CPU: 48.16%, Latency: 10.05 ms
+Episode 9/50
+ue1 offloaded to edge1. Task: 2.21MB, CPU: 25.81%, Latency: 5.86 ms
+ue2 offloaded to edge1. Task: 9.66MB, CPU: 35.00%, Latency: 9.92 ms
+ue3 offloaded to edge3. Task: 6.79MB, CPU: 42.99%, Latency: 10.66 ms
+ue4 offloaded to edge1. Task: 2.88MB, CPU: 19.66%, Latency: 4.82 ms
+ue5 offloaded to edge1. Task: 1.56MB, CPU: 12.38%, Latency: 2.97 ms
+ue6 offloaded to edge1. Task: 3.35MB, CPU: 21.70%, Latency: 5.38 ms
+Episode 10/50
+ue1 offloaded to edge3. Task: 6.11MB, CPU: 11.57%, Latency: 4.18 ms
+ue2 offloaded to edge3. Task: 7.20MB, CPU: 15.40%, Latency: 5.27 ms
+ue3 offloaded to edge2. Task: 4.75MB, CPU: 18.21%, Latency: 5.10 ms
+ue4 offloaded to edge1. Task: 9.26MB, CPU: 39.64%, Latency: 10.74 ms
+ue5 offloaded to edge1. Task: 4.20MB, CPU: 26.42%, Latency: 6.57 ms
+ue6 offloaded to edge1. Task: 9.92MB, CPU: 27.77%, Latency: 8.56 ms
+Target network updated.
+Episode 11/50
+ue1 offloaded to edge1. Task: 3.56MB, CPU: 15.56%, Latency: 4.21 ms
+ue2 offloaded to edge1. Task: 5.02MB, CPU: 15.45%, Latency: 4.63 ms
+ue3 offloaded to edge1. Task: 6.05MB, CPU: 39.16%, Latency: 9.68 ms
+ue4 offloaded to edge1. Task: 2.93MB, CPU: 9.92%, Latency: 2.89 ms
+ue5 offloaded to edge1. Task: 7.41MB, CPU: 29.27%, Latency: 8.11 ms
+ue6 offloaded to edge1. Task: 8.72MB, CPU: 35.92%, Latency: 9.83 ms
+Episode 12/50
+ue1 offloaded to edge3. Task: 2.70MB, CPU: 22.77%, Latency: 5.39 ms
+ue2 offloaded to edge1. Task: 3.16MB, CPU: 48.58%, Latency: 10.69 ms
+ue3 offloaded to edge1. Task: 9.94MB, CPU: 19.08%, Latency: 6.82 ms
+ue4 offloaded to edge3. Task: 5.62MB, CPU: 17.68%, Latency: 5.25 ms
+ue5 offloaded to edge2. Task: 3.08MB, CPU: 48.64%, Latency: 10.69 ms
+ue6 offloaded to edge1. Task: 9.93MB, CPU: 9.91%, Latency: 4.99 ms
+Episode 13/50
+ue1 offloaded to edge1. Task: 8.78MB, CPU: 48.80%, Latency: 12.42 ms
+ue2 offloaded to edge3. Task: 8.57MB, CPU: 17.11%, Latency: 6.03 ms
+ue3 processed locally. Task: 2.92MB, CPU: 18.92%, Latency: 24.46 ms
+ue4 offloaded to edge2. Task: 8.38MB, CPU: 29.52%, Latency: 8.45 ms
+ue5 offloaded to edge1. Task: 9.51MB, CPU: 22.85%, Latency: 7.45 ms
+ue6 offloaded to edge3. Task: 8.76MB, CPU: 37.28%, Latency: 10.11 ms
+Episode 14/50
+ue1 offloaded to edge3. Task: 6.39MB, CPU: 48.20%, Latency: 11.59 ms
+ue2 offloaded to edge2. Task: 4.77MB, CPU: 25.20%, Latency: 6.50 ms
+ue3 offloaded to edge1. Task: 7.95MB, CPU: 20.29%, Latency: 6.48 ms
+ue4 offloaded to edge2. Task: 1.81MB, CPU: 44.13%, Latency: 9.40 ms
+ue5 processed locally. Task: 6.60MB, CPU: 32.81%, Latency: 31.41 ms
+ue6 offloaded to edge2. Task: 5.06MB, CPU: 20.15%, Latency: 5.58 ms
+Episode 15/50
+ue1 offloaded to edge3. Task: 2.35MB, CPU: 42.29%, Latency: 9.19 ms
+ue2 offloaded to edge1. Task: 1.11MB, CPU: 43.84%, Latency: 9.13 ms
+ue3 offloaded to edge2. Task: 2.35MB, CPU: 15.44%, Latency: 3.82 ms
+ue4 offloaded to edge2. Task: 1.95MB, CPU: 13.68%, Latency: 3.36 ms
+ue5 offloaded to edge3. Task: 9.98MB, CPU: 26.41%, Latency: 8.31 ms
+ue6 offloaded to edge1. Task: 4.99MB, CPU: 38.00%, Latency: 9.13 ms
+Episode 16/50
+ue1 offloaded to edge2. Task: 4.53MB, CPU: 21.37%, Latency: 5.66 ms
+ue2 offloaded to edge2. Task: 3.73MB, CPU: 47.51%, Latency: 10.65 ms
+ue3 offloaded to edge2. Task: 4.33MB, CPU: 36.57%, Latency: 8.65 ms
+ue4 offloaded to edge2. Task: 2.64MB, CPU: 33.98%, Latency: 7.62 ms
+ue5 processed locally. Task: 6.25MB, CPU: 30.28%, Latency: 30.14 ms
+ue6 processed locally. Task: 6.13MB, CPU: 14.74%, Latency: 22.37 ms
+Episode 17/50
+ue1 processed locally. Task: 3.88MB, CPU: 45.83%, Latency: 37.92 ms
+ue2 processed locally. Task: 9.81MB, CPU: 31.61%, Latency: 30.80 ms
+ue3 processed locally. Task: 4.33MB, CPU: 21.52%, Latency: 25.76 ms
+ue4 processed locally. Task: 7.36MB, CPU: 39.62%, Latency: 34.81 ms
+ue5 processed locally. Task: 6.50MB, CPU: 40.59%, Latency: 35.30 ms
+ue6 processed locally. Task: 9.45MB, CPU: 35.60%, Latency: 32.80 ms
+Episode 18/50
+ue1 processed locally. Task: 9.93MB, CPU: 12.25%, Latency: 21.12 ms
+ue2 processed locally. Task: 8.82MB, CPU: 24.47%, Latency: 27.23 ms
+ue3 processed locally. Task: 9.82MB, CPU: 9.09%, Latency: 19.54 ms
+ue4 processed locally. Task: 8.45MB, CPU: 8.51%, Latency: 19.26 ms
+ue5 offloaded to edge1. Task: 5.38MB, CPU: 49.85%, Latency: 11.62 ms
+ue6 processed locally. Task: 3.96MB, CPU: 47.87%, Latency: 38.93 ms
+Episode 19/50
+ue1 processed locally. Task: 5.96MB, CPU: 25.73%, Latency: 27.86 ms
+ue2 processed locally. Task: 4.42MB, CPU: 43.12%, Latency: 36.56 ms
+ue3 processed locally. Task: 5.44MB, CPU: 41.89%, Latency: 35.95 ms
+ue4 processed locally. Task: 5.23MB, CPU: 20.77%, Latency: 25.38 ms
+ue5 processed locally. Task: 7.96MB, CPU: 12.72%, Latency: 21.36 ms
+ue6 offloaded to edge2. Task: 6.69MB, CPU: 38.96%, Latency: 9.83 ms
+Episode 20/50
+ue1 offloaded to edge3. Task: 9.37MB, CPU: 6.63%, Latency: 4.17 ms
+ue2 processed locally. Task: 1.13MB, CPU: 30.03%, Latency: 30.01 ms
+ue3 processed locally. Task: 5.55MB, CPU: 8.41%, Latency: 19.20 ms
+ue4 processed locally. Task: 9.61MB, CPU: 22.78%, Latency: 26.39 ms
+ue5 processed locally. Task: 8.88MB, CPU: 17.47%, Latency: 23.74 ms
+ue6 offloaded to edge1. Task: 8.36MB, CPU: 15.66%, Latency: 5.68 ms
+Target network updated.
+Episode 21/50
+ue1 offloaded to edge1. Task: 7.56MB, CPU: 44.19%, Latency: 11.13 ms
+ue2 processed locally. Task: 4.96MB, CPU: 30.39%, Latency: 30.19 ms
+ue3 processed locally. Task: 8.63MB, CPU: 8.55%, Latency: 19.27 ms
+ue4 processed locally. Task: 9.42MB, CPU: 39.12%, Latency: 34.56 ms
+ue5 processed locally. Task: 9.40MB, CPU: 14.69%, Latency: 22.34 ms
+ue6 offloaded to edge3. Task: 3.03MB, CPU: 46.96%, Latency: 10.33 ms
+Episode 22/50
+ue1 offloaded to edge1. Task: 8.96MB, CPU: 28.80%, Latency: 8.48 ms
+ue2 offloaded to edge3. Task: 2.69MB, CPU: 42.72%, Latency: 9.38 ms
+ue3 offloaded to edge2. Task: 8.33MB, CPU: 44.73%, Latency: 11.48 ms
+ue4 offloaded to edge3. Task: 2.84MB, CPU: 21.11%, Latency: 5.11 ms
+ue5 offloaded to edge3. Task: 5.67MB, CPU: 35.52%, Latency: 8.84 ms
+ue6 offloaded to edge1. Task: 5.65MB, CPU: 17.20%, Latency: 5.17 ms
+Episode 23/50
+ue1 offloaded to edge1. Task: 8.21MB, CPU: 34.36%, Latency: 9.37 ms
+ue2 offloaded to edge1. Task: 3.52MB, CPU: 20.99%, Latency: 5.28 ms
+ue3 offloaded to edge3. Task: 4.48MB, CPU: 12.55%, Latency: 3.89 ms
+ue4 processed locally. Task: 4.99MB, CPU: 32.79%, Latency: 31.39 ms
+ue5 offloaded to edge1. Task: 6.71MB, CPU: 6.27%, Latency: 3.30 ms
+ue6 offloaded to edge3. Task: 6.00MB, CPU: 32.36%, Latency: 8.30 ms
+Episode 24/50
+ue1 offloaded to edge3. Task: 8.47MB, CPU: 36.57%, Latency: 9.89 ms
+ue2 offloaded to edge3. Task: 5.67MB, CPU: 38.06%, Latency: 9.35 ms
+ue3 offloaded to edge1. Task: 3.04MB, CPU: 6.79%, Latency: 2.30 ms
+ue4 offloaded to edge1. Task: 8.45MB, CPU: 10.81%, Latency: 4.73 ms
+ue5 offloaded to edge1. Task: 9.25MB, CPU: 23.11%, Latency: 7.43 ms
+ue6 offloaded to edge2. Task: 2.36MB, CPU: 41.86%, Latency: 9.11 ms
+Episode 25/50
+ue1 offloaded to edge3. Task: 3.38MB, CPU: 30.84%, Latency: 7.22 ms
+ue2 offloaded to edge1. Task: 1.07MB, CPU: 24.11%, Latency: 5.18 ms
+ue3 processed locally. Task: 9.64MB, CPU: 32.26%, Latency: 31.13 ms
+ue4 processed locally. Task: 3.92MB, CPU: 47.73%, Latency: 38.86 ms
+ue5 offloaded to edge3. Task: 3.13MB, CPU: 41.69%, Latency: 9.31 ms
+ue6 offloaded to edge3. Task: 8.73MB, CPU: 5.82%, Latency: 3.82 ms
+Episode 26/50
+ue1 offloaded to edge1. Task: 4.37MB, CPU: 13.78%, Latency: 4.10 ms
+ue2 offloaded to edge1. Task: 9.08MB, CPU: 17.01%, Latency: 6.16 ms
+ue3 offloaded to edge1. Task: 9.20MB, CPU: 14.09%, Latency: 5.61 ms
+ue4 offloaded to edge3. Task: 2.73MB, CPU: 42.71%, Latency: 9.39 ms
+ue5 offloaded to edge1. Task: 5.66MB, CPU: 22.16%, Latency: 6.16 ms
+ue6 offloaded to edge1. Task: 4.80MB, CPU: 22.00%, Latency: 5.87 ms
+Episode 27/50
+ue1 offloaded to edge3. Task: 1.51MB, CPU: 32.69%, Latency: 7.02 ms
+ue2 offloaded to edge3. Task: 6.92MB, CPU: 36.53%, Latency: 9.41 ms
+ue3 offloaded to edge3. Task: 6.55MB, CPU: 27.15%, Latency: 7.43 ms
+ue4 processed locally. Task: 9.31MB, CPU: 48.93%, Latency: 39.47 ms
+ue5 offloaded to edge1. Task: 2.35MB, CPU: 20.36%, Latency: 4.81 ms
+ue6 offloaded to edge1. Task: 3.33MB, CPU: 11.16%, Latency: 3.26 ms
+Episode 28/50
+ue1 offloaded to edge3. Task: 1.86MB, CPU: 33.44%, Latency: 7.28 ms
+ue2 offloaded to edge3. Task: 8.01MB, CPU: 39.38%, Latency: 10.31 ms
+ue3 offloaded to edge1. Task: 2.16MB, CPU: 14.26%, Latency: 3.53 ms
+ue4 offloaded to edge3. Task: 9.93MB, CPU: 28.67%, Latency: 8.74 ms
+ue5 processed locally. Task: 1.92MB, CPU: 29.92%, Latency: 29.96 ms
+ue6 offloaded to edge1. Task: 7.93MB, CPU: 15.11%, Latency: 5.43 ms
+Episode 29/50
+ue1 offloaded to edge1. Task: 8.23MB, CPU: 25.92%, Latency: 7.68 ms
+ue2 offloaded to edge3. Task: 5.99MB, CPU: 40.06%, Latency: 9.84 ms
+ue3 offloaded to edge2. Task: 3.46MB, CPU: 39.00%, Latency: 8.87 ms
+ue4 offloaded to edge1. Task: 6.90MB, CPU: 16.40%, Latency: 5.38 ms
+ue5 offloaded to edge1. Task: 9.75MB, CPU: 11.10%, Latency: 5.18 ms
+ue6 offloaded to edge3. Task: 7.45MB, CPU: 45.21%, Latency: 11.31 ms
+Episode 30/50
+ue1 offloaded to edge2. Task: 6.81MB, CPU: 21.65%, Latency: 6.40 ms
+ue2 offloaded to edge1. Task: 9.59MB, CPU: 12.03%, Latency: 5.31 ms
+ue3 offloaded to edge1. Task: 2.90MB, CPU: 13.78%, Latency: 3.66 ms
+ue4 offloaded to edge1. Task: 3.44MB, CPU: 29.68%, Latency: 7.00 ms
+ue5 offloaded to edge1. Task: 9.43MB, CPU: 12.35%, Latency: 5.33 ms
+ue6 offloaded to edge1. Task: 5.97MB, CPU: 18.02%, Latency: 5.43 ms
+Target network updated.
+Episode 31/50
+ue1 offloaded to edge1. Task: 7.54MB, CPU: 31.69%, Latency: 8.63 ms
+ue2 processed locally. Task: 4.68MB, CPU: 39.40%, Latency: 34.70 ms
+ue3 offloaded to edge1. Task: 3.46MB, CPU: 14.87%, Latency: 4.04 ms
+ue4 offloaded to edge1. Task: 2.14MB, CPU: 17.54%, Latency: 4.18 ms
+ue5 offloaded to edge1. Task: 8.43MB, CPU: 19.29%, Latency: 6.42 ms
+ue6 offloaded to edge1. Task: 5.00MB, CPU: 45.70%, Latency: 10.67 ms
+Episode 32/50
+ue1 offloaded to edge2. Task: 8.96MB, CPU: 25.52%, Latency: 7.82 ms
+ue2 offloaded to edge1. Task: 6.33MB, CPU: 33.74%, Latency: 8.68 ms
+ue3 offloaded to edge1. Task: 6.76MB, CPU: 12.60%, Latency: 4.58 ms
+ue4 offloaded to edge3. Task: 6.01MB, CPU: 10.03%, Latency: 3.85 ms
+ue5 offloaded to edge2. Task: 3.12MB, CPU: 14.66%, Latency: 3.90 ms
+ue6 processed locally. Task: 3.56MB, CPU: 49.60%, Latency: 39.80 ms
+Episode 33/50
+ue1 offloaded to edge3. Task: 5.93MB, CPU: 13.08%, Latency: 4.43 ms
+ue2 processed locally. Task: 4.93MB, CPU: 30.72%, Latency: 30.36 ms
+ue3 offloaded to edge1. Task: 7.44MB, CPU: 8.13%, Latency: 3.89 ms
+ue4 offloaded to edge3. Task: 3.10MB, CPU: 24.17%, Latency: 5.80 ms
+ue5 offloaded to edge1. Task: 8.87MB, CPU: 13.19%, Latency: 5.33 ms
+ue6 offloaded to edge1. Task: 6.96MB, CPU: 23.59%, Latency: 6.84 ms
+Episode 34/50
+ue1 offloaded to edge1. Task: 7.04MB, CPU: 17.68%, Latency: 5.68 ms
+ue2 offloaded to edge1. Task: 8.48MB, CPU: 19.31%, Latency: 6.44 ms
+ue3 offloaded to edge1. Task: 2.66MB, CPU: 43.95%, Latency: 9.62 ms
+ue4 offloaded to edge1. Task: 9.42MB, CPU: 48.39%, Latency: 12.54 ms
+ue5 offloaded to edge3. Task: 6.74MB, CPU: 18.43%, Latency: 5.74 ms
+ue6 offloaded to edge1. Task: 5.59MB, CPU: 25.89%, Latency: 6.89 ms
+Episode 35/50
+ue1 offloaded to edge1. Task: 2.53MB, CPU: 39.39%, Latency: 8.67 ms
+ue2 processed locally. Task: 7.77MB, CPU: 12.37%, Latency: 21.18 ms
+ue3 offloaded to edge1. Task: 2.64MB, CPU: 48.75%, Latency: 10.58 ms
+ue4 offloaded to edge1. Task: 1.45MB, CPU: 35.34%, Latency: 7.53 ms
+ue5 offloaded to edge3. Task: 8.83MB, CPU: 41.52%, Latency: 10.98 ms
+ue6 offloaded to edge1. Task: 5.17MB, CPU: 40.88%, Latency: 9.76 ms
+Episode 36/50
+ue1 offloaded to edge3. Task: 8.53MB, CPU: 41.82%, Latency: 10.95 ms
+ue2 processed locally. Task: 9.59MB, CPU: 31.36%, Latency: 30.68 ms
+ue3 offloaded to edge1. Task: 1.74MB, CPU: 13.51%, Latency: 3.26 ms
+ue4 offloaded to edge1. Task: 7.03MB, CPU: 16.33%, Latency: 5.41 ms
+ue5 offloaded to edge3. Task: 2.12MB, CPU: 22.20%, Latency: 5.11 ms
+ue6 offloaded to edge1. Task: 2.36MB, CPU: 47.68%, Latency: 10.28 ms
+Episode 37/50
+ue1 offloaded to edge3. Task: 4.11MB, CPU: 49.97%, Latency: 11.26 ms
+ue2 offloaded to edge1. Task: 1.15MB, CPU: 35.51%, Latency: 7.48 ms
+ue3 offloaded to edge1. Task: 4.51MB, CPU: 30.06%, Latency: 7.40 ms
+ue4 offloaded to edge3. Task: 9.63MB, CPU: 21.09%, Latency: 7.14 ms
+ue5 offloaded to edge2. Task: 9.80MB, CPU: 17.46%, Latency: 6.47 ms
+ue6 offloaded to edge1. Task: 4.16MB, CPU: 35.98%, Latency: 8.47 ms
+Episode 38/50
+ue1 offloaded to edge3. Task: 6.69MB, CPU: 41.08%, Latency: 10.25 ms
+ue2 offloaded to edge1. Task: 6.44MB, CPU: 12.33%, Latency: 4.43 ms
+ue3 offloaded to edge3. Task: 6.89MB, CPU: 30.52%, Latency: 8.20 ms
+ue4 offloaded to edge3. Task: 4.14MB, CPU: 16.92%, Latency: 4.66 ms
+ue5 offloaded to edge1. Task: 8.84MB, CPU: 19.05%, Latency: 6.49 ms
+ue6 offloaded to edge1. Task: 7.21MB, CPU: 7.54%, Latency: 3.71 ms
+Episode 39/50
+ue1 offloaded to edge3. Task: 6.73MB, CPU: 32.73%, Latency: 8.59 ms
+ue2 offloaded to edge1. Task: 3.34MB, CPU: 7.86%, Latency: 2.61 ms
+ue3 offloaded to edge3. Task: 4.34MB, CPU: 37.77%, Latency: 8.89 ms
+ue4 offloaded to edge3. Task: 9.50MB, CPU: 46.46%, Latency: 12.17 ms
+ue5 offloaded to edge3. Task: 2.15MB, CPU: 47.13%, Latency: 10.10 ms
+ue6 processed locally. Task: 3.12MB, CPU: 16.20%, Latency: 23.10 ms
+Episode 40/50
+ue1 offloaded to edge3. Task: 3.92MB, CPU: 40.87%, Latency: 9.39 ms
+ue2 offloaded to edge2. Task: 3.07MB, CPU: 44.36%, Latency: 9.82 ms
+ue3 offloaded to edge1. Task: 3.81MB, CPU: 13.43%, Latency: 3.86 ms
+ue4 offloaded to edge1. Task: 7.43MB, CPU: 9.06%, Latency: 4.07 ms
+ue5 offloaded to edge2. Task: 1.48MB, CPU: 35.20%, Latency: 7.52 ms
+ue6 processed locally. Task: 5.81MB, CPU: 43.93%, Latency: 36.96 ms
+Target network updated.
+Episode 41/50
+ue1 offloaded to edge2. Task: 4.72MB, CPU: 45.80%, Latency: 10.61 ms
+ue2 offloaded to edge1. Task: 4.07MB, CPU: 37.68%, Latency: 8.79 ms
+ue3 offloaded to edge1. Task: 8.95MB, CPU: 18.42%, Latency: 6.40 ms
+ue4 offloaded to edge1. Task: 5.82MB, CPU: 18.74%, Latency: 5.52 ms
+ue5 offloaded to edge3. Task: 6.37MB, CPU: 46.67%, Latency: 11.27 ms
+ue6 offloaded to edge1. Task: 4.81MB, CPU: 8.56%, Latency: 3.18 ms
+Episode 42/50
+ue1 offloaded to edge3. Task: 8.49MB, CPU: 27.83%, Latency: 8.14 ms
+ue2 offloaded to edge3. Task: 7.63MB, CPU: 20.67%, Latency: 6.45 ms
+ue3 offloaded to edge3. Task: 2.04MB, CPU: 38.65%, Latency: 8.37 ms
+ue4 offloaded to edge1. Task: 4.49MB, CPU: 8.25%, Latency: 3.03 ms
+ue5 offloaded to edge3. Task: 8.23MB, CPU: 10.85%, Latency: 4.67 ms
+ue6 offloaded to edge3. Task: 4.53MB, CPU: 47.27%, Latency: 10.84 ms
+Episode 43/50
+ue1 offloaded to edge1. Task: 9.34MB, CPU: 24.72%, Latency: 7.78 ms
+ue2 offloaded to edge3. Task: 8.56MB, CPU: 36.66%, Latency: 9.93 ms
+ue3 offloaded to edge3. Task: 8.95MB, CPU: 14.06%, Latency: 5.53 ms
+ue4 offloaded to edge3. Task: 4.12MB, CPU: 39.50%, Latency: 9.16 ms
+ue5 offloaded to edge3. Task: 9.25MB, CPU: 17.64%, Latency: 6.33 ms
+ue6 processed locally. Task: 6.16MB, CPU: 17.20%, Latency: 23.60 ms
+Episode 44/50
+ue1 offloaded to edge3. Task: 1.05MB, CPU: 42.38%, Latency: 8.82 ms
+ue2 offloaded to edge3. Task: 7.48MB, CPU: 35.20%, Latency: 9.31 ms
+ue3 offloaded to edge3. Task: 4.57MB, CPU: 15.13%, Latency: 4.43 ms
+ue4 offloaded to edge2. Task: 3.91MB, CPU: 23.64%, Latency: 5.93 ms
+ue5 offloaded to edge3. Task: 4.96MB, CPU: 24.32%, Latency: 6.38 ms
+ue6 offloaded to edge3. Task: 5.33MB, CPU: 43.45%, Latency: 10.32 ms
+Episode 45/50
+ue1 offloaded to edge2. Task: 1.66MB, CPU: 23.92%, Latency: 5.31 ms
+ue2 offloaded to edge2. Task: 8.56MB, CPU: 5.97%, Latency: 3.79 ms
+ue3 offloaded to edge3. Task: 9.86MB, CPU: 49.57%, Latency: 12.91 ms
+ue4 offloaded to edge3. Task: 4.03MB, CPU: 48.85%, Latency: 11.01 ms
+ue5 offloaded to edge2. Task: 6.17MB, CPU: 28.91%, Latency: 7.66 ms
+ue6 offloaded to edge2. Task: 7.87MB, CPU: 17.53%, Latency: 5.90 ms
+Episode 46/50
+ue1 offloaded to edge2. Task: 1.36MB, CPU: 29.38%, Latency: 6.31 ms
+ue2 offloaded to edge2. Task: 2.05MB, CPU: 9.38%, Latency: 2.52 ms
+ue3 offloaded to edge2. Task: 1.56MB, CPU: 49.41%, Latency: 10.39 ms
+ue4 processed locally. Task: 3.14MB, CPU: 15.93%, Latency: 22.96 ms
+ue5 offloaded to edge2. Task: 7.33MB, CPU: 24.53%, Latency: 7.13 ms
+ue6 offloaded to edge2. Task: 5.74MB, CPU: 46.22%, Latency: 11.00 ms
+Episode 47/50
+ue1 offloaded to edge2. Task: 9.41MB, CPU: 41.97%, Latency: 11.25 ms
+ue2 offloaded to edge2. Task: 6.14MB, CPU: 38.85%, Latency: 9.65 ms
+ue3 offloaded to edge2. Task: 7.34MB, CPU: 39.40%, Latency: 10.11 ms
+ue4 offloaded to edge2. Task: 8.48MB, CPU: 34.81%, Latency: 9.53 ms
+ue5 offloaded to edge2. Task: 8.09MB, CPU: 41.12%, Latency: 10.69 ms
+ue6 offloaded to edge2. Task: 1.88MB, CPU: 45.76%, Latency: 9.75 ms
+Episode 48/50
+ue1 offloaded to edge2. Task: 1.67MB, CPU: 41.55%, Latency: 8.84 ms
+ue2 processed locally. Task: 5.49MB, CPU: 22.65%, Latency: 26.32 ms
+ue3 offloaded to edge2. Task: 8.12MB, CPU: 29.78%, Latency: 8.43 ms
+ue4 offloaded to edge2. Task: 1.18MB, CPU: 42.65%, Latency: 8.92 ms
+ue5 offloaded to edge2. Task: 5.78MB, CPU: 32.38%, Latency: 8.24 ms
+ue6 offloaded to edge2. Task: 3.57MB, CPU: 43.00%, Latency: 9.71 ms
+Episode 49/50
+ue1 offloaded to edge2. Task: 7.70MB, CPU: 7.21%, Latency: 3.78 ms
+ue2 offloaded to edge2. Task: 4.52MB, CPU: 24.50%, Latency: 6.29 ms
+ue3 offloaded to edge2. Task: 1.50MB, CPU: 14.59%, Latency: 3.40 ms
+ue4 offloaded to edge2. Task: 2.62MB, CPU: 41.63%, Latency: 9.14 ms
+ue5 offloaded to edge1. Task: 2.16MB, CPU: 10.93%, Latency: 2.87 ms
+ue6 offloaded to edge2. Task: 3.08MB, CPU: 41.56%, Latency: 9.27 ms
+Episode 50/50
+ue1 offloaded to edge2. Task: 5.24MB, CPU: 33.10%, Latency: 8.22 ms
+ue2 processed locally. Task: 3.81MB, CPU: 5.80%, Latency: 17.90 ms
+ue3 offloaded to edge2. Task: 2.25MB, CPU: 42.34%, Latency: 9.18 ms
+ue4 offloaded to edge2. Task: 9.93MB, CPU: 33.21%, Latency: 9.65 ms
+ue5 processed locally. Task: 8.39MB, CPU: 36.65%, Latency: 33.32 ms
+ue6 offloaded to edge3. Task: 9.87MB, CPU: 5.27%, Latency: 4.05 ms
+Target network updated.
+Training complete. Starting testing...
+Test Episode 1/10
+ue1 offloaded to edge2. Task: 9.95MB, CPU: 25.12%, Latency: 8.04 ms
+ue2 offloaded to edge2. Task: 9.50MB, CPU: 45.69%, Latency: 12.02 ms
+ue3 offloaded to edge2. Task: 2.69MB, CPU: 47.30%, Latency: 10.31 ms
+ue4 offloaded to edge2. Task: 5.61MB, CPU: 25.51%, Latency: 6.81 ms
+ue5 offloaded to edge2. Task: 3.65MB, CPU: 16.07%, Latency: 4.37 ms
+ue6 offloaded to edge2. Task: 8.44MB, CPU: 11.30%, Latency: 4.88 ms
+Test Episode 2/10
+ue1 offloaded to edge2. Task: 9.03MB, CPU: 17.51%, Latency: 6.27 ms
+ue2 offloaded to edge2. Task: 9.80MB, CPU: 6.62%, Latency: 4.31 ms
+ue3 offloaded to edge2. Task: 3.52MB, CPU: 27.11%, Latency: 6.52 ms
+ue4 offloaded to edge2. Task: 2.05MB, CPU: 32.09%, Latency: 7.09 ms
+ue5 offloaded to edge2. Task: 1.71MB, CPU: 38.24%, Latency: 8.20 ms
+ue6 offloaded to edge2. Task: 6.15MB, CPU: 32.70%, Latency: 8.43 ms
+Test Episode 3/10
+ue1 offloaded to edge2. Task: 6.19MB, CPU: 38.84%, Latency: 9.67 ms
+ue2 offloaded to edge2. Task: 3.94MB, CPU: 47.99%, Latency: 10.82 ms
+ue3 offloaded to edge2. Task: 3.67MB, CPU: 36.30%, Latency: 8.41 ms
+ue4 offloaded to edge2. Task: 7.16MB, CPU: 38.10%, Latency: 9.82 ms
+ue5 offloaded to edge2. Task: 3.17MB, CPU: 15.01%, Latency: 4.00 ms
+ue6 offloaded to edge2. Task: 4.39MB, CPU: 29.58%, Latency: 7.29 ms
+Test Episode 4/10
+ue1 offloaded to edge2. Task: 5.63MB, CPU: 25.05%, Latency: 6.74 ms
+ue2 offloaded to edge2. Task: 8.60MB, CPU: 23.89%, Latency: 7.40 ms
+ue3 offloaded to edge2. Task: 7.91MB, CPU: 7.00%, Latency: 3.82 ms
+ue4 offloaded to edge1. Task: 2.01MB, CPU: 8.41%, Latency: 2.32 ms
+ue5 offloaded to edge2. Task: 9.73MB, CPU: 33.16%, Latency: 9.59 ms
+ue6 offloaded to edge2. Task: 8.19MB, CPU: 25.95%, Latency: 7.68 ms
+Test Episode 5/10
+ue1 offloaded to edge2. Task: 3.14MB, CPU: 26.92%, Latency: 6.36 ms
+ue2 offloaded to edge2. Task: 6.30MB, CPU: 38.10%, Latency: 9.55 ms
+ue3 offloaded to edge2. Task: 2.28MB, CPU: 13.54%, Latency: 3.44 ms
+ue4 offloaded to edge2. Task: 7.29MB, CPU: 48.20%, Latency: 11.87 ms
+ue5 offloaded to edge2. Task: 2.38MB, CPU: 25.76%, Latency: 5.90 ms
+ue6 offloaded to edge2. Task: 7.88MB, CPU: 24.97%, Latency: 7.41 ms
+Test Episode 6/10
+ue1 offloaded to edge2. Task: 6.78MB, CPU: 20.29%, Latency: 6.14 ms
+ue2 offloaded to edge2. Task: 4.93MB, CPU: 35.67%, Latency: 8.66 ms
+ue3 offloaded to edge2. Task: 7.46MB, CPU: 46.58%, Latency: 11.60 ms
+ue4 offloaded to edge2. Task: 6.57MB, CPU: 5.55%, Latency: 3.12 ms
+ue5 offloaded to edge2. Task: 3.16MB, CPU: 12.29%, Latency: 3.46 ms
+ue6 offloaded to edge2. Task: 9.48MB, CPU: 49.32%, Latency: 12.75 ms
+Test Episode 7/10
+ue1 offloaded to edge2. Task: 9.91MB, CPU: 46.48%, Latency: 12.31 ms
+ue2 offloaded to edge2. Task: 6.44MB, CPU: 29.87%, Latency: 7.94 ms
+ue3 offloaded to edge2. Task: 2.57MB, CPU: 49.61%, Latency: 10.75 ms
+ue4 offloaded to edge2. Task: 9.12MB, CPU: 31.96%, Latency: 9.17 ms
+ue5 offloaded to edge2. Task: 2.85MB, CPU: 27.75%, Latency: 6.44 ms
+ue6 offloaded to edge2. Task: 3.97MB, CPU: 36.00%, Latency: 8.44 ms
+Test Episode 8/10
+ue1 offloaded to edge1. Task: 2.49MB, CPU: 7.52%, Latency: 2.27 ms
+ue2 offloaded to edge2. Task: 8.26MB, CPU: 21.64%, Latency: 6.85 ms
+ue3 offloaded to edge2. Task: 5.14MB, CPU: 33.91%, Latency: 8.35 ms
+ue4 offloaded to edge2. Task: 6.16MB, CPU: 14.37%, Latency: 4.75 ms
+ue5 offloaded to edge2. Task: 7.03MB, CPU: 40.00%, Latency: 10.14 ms
+ue6 offloaded to edge2. Task: 8.95MB, CPU: 29.49%, Latency: 8.62 ms
+Test Episode 9/10
+ue1 offloaded to edge2. Task: 9.75MB, CPU: 28.54%, Latency: 8.68 ms
+ue2 offloaded to edge2. Task: 8.78MB, CPU: 11.81%, Latency: 5.05 ms
+ue3 offloaded to edge2. Task: 5.00MB, CPU: 10.51%, Latency: 3.65 ms
+ue4 offloaded to edge2. Task: 7.30MB, CPU: 36.13%, Latency: 9.50 ms
+ue5 offloaded to edge2. Task: 6.94MB, CPU: 41.33%, Latency: 10.40 ms
+ue6 offloaded to edge2. Task: 8.44MB, CPU: 37.94%, Latency: 10.17 ms
+Test Episode 10/10
+ue1 offloaded to edge2. Task: 1.51MB, CPU: 46.68%, Latency: 9.83 ms
+ue2 offloaded to edge2. Task: 8.55MB, CPU: 10.22%, Latency: 4.66 ms
+ue3 offloaded to edge2. Task: 6.06MB, CPU: 13.44%, Latency: 4.56 ms
+ue4 offloaded to edge1. Task: 2.30MB, CPU: 8.45%, Latency: 2.43 ms
+ue5 offloaded to edge2. Task: 7.30MB, CPU: 39.58%, Latency: 10.16 ms
+ue6 offloaded to edge2. Task: 8.33MB, CPU: 49.43%, Latency: 12.43 ms
+mininet> 
