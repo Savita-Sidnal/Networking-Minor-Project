@@ -47,12 +47,7 @@ Ensure the following software is installed:
 - Mininet
 - PyTorch
 - NumPy
-
-Install dependencies:
-
-```bash```
-pip install torch numpy
-
+- 
 ---
 ## 🧠 DQN Model Overview
 
